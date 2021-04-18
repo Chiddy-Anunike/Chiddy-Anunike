@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Tableau
 - 💞️ I’m looking to collaborate on machine learning projects that will improve my skills
-- 📫 How to reach me ...
+- 📫 How to reach me opal_etta@yahoo.co.uk
 
 <!---
 Chiddy-Anunike/Chiddy-Anunike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
